@@ -4,3 +4,4 @@
 |Reversed array|[reversed-array](./reversed-array)|
 |Array insert|[array-insert](./array-insert)|
 |Binary search|[binary-search](./binary-search)|
+|Linked list|[linked-list](./linked-list)|
